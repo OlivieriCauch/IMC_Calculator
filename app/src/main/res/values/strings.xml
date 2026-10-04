@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMC calculator</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="calcula_tu_imc_y_averigua_si_estas_gordo_o_no">Calcula tu IMC y averigua si estas gordo o no</string>
+</resources>
